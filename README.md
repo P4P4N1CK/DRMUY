@@ -1,4 +1,6 @@
 # DRMUY
+REMEMBER TO DONWLOAD THE FFMPEG AND FFMPEGPROBE
+
 
 This script is written in PHP and utilizes the N_M3U8-DL-RE library to decode MPD (MPEG-DASH) content and convert it into an M3U8 playlist for streaming purposes. (NOT EVEN FINISHED BUT WORKING)
 This method will remove the jittler or freez in the video or audio when you convert from mpd to m3u8 and dont stops treaming, just need a good disk to store the ts file and remove them every x hors.
