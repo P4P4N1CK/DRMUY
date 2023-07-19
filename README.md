@@ -14,7 +14,7 @@ User Interface (UI): The script provides a user interface where the user can inp
 
 Login
   <img
-  src="[https://i.ibb.co/584qW2T/1.png](https://goplaytv.fun/img/1.png)"
+  src="https://goplaytv.fun/img/1.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Processing MPD: Once the user provides the necessary input, the script loads the MPD file using the provided link and extracts the required information from it. This includes obtaining the URLs for video and audio streams, as well as any encryption keys needed to access the content.
